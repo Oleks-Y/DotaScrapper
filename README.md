@@ -17,15 +17,15 @@
 
 Для зареєстрованих користувачів пройти звичайний вхід, де вказати свій емейл та пароль. 
 Щоб не здійснювати повторних входів, можете поставити галочку біля *запам'ятати*, щоб система зберегла дані входу:
-[registration](screenshots/Enter.jpg)
+[Login](screenshots/Enter.jpg)
 
 Після входу ви побачите свою сторінку користувача. На головній сторінці вказані користувачі та ваші друзі:
-[registration](screenshots/player.jpg)
+[Account](screenshots/player.jpg)
 
 При переході на вкладку *Турніри*, вам будуть висвітлені найближчі події по даній категорії:
-[registration](screenshots/Competition.jpg)
+[Competition](screenshots/Competition.jpg)
 
 На вкладці *Команди*, ви можете слідкувати за улюбленими командами, бачити їх опис та події пов'язані з ними:
-[registration](screenshots/Comands.jpg)
+[Comands](screenshots/Comands.jpg)
 
 Здійснити вихід з облікового запису ви можете за допомогою кнопки *Вихід*.
