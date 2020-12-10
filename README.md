@@ -11,21 +11,28 @@
 
 Для не зареєстрованих користувачів потрібно пройти процес реєстрації
 натисніть на кнопку реєстрації:
-[registration](screenshots/reg.jpg)
+
+![registration](https://github.com/Oleks-Y/DotaScrapper/blob/master/screenshots/reg.jpg)
+
 й пройти реєстрацію, де потрібно вказати ваш емейл, акаунт ID з Steam та придумати пароль:
-[registration](screenshots/reg1.jpg)
+
+![registration](https://github.com/Oleks-Y/DotaScrapper/blob/master/screenshots/reg1.jpg)
 
 Для зареєстрованих користувачів пройти звичайний вхід, де вказати свій емейл та пароль. 
 Щоб не здійснювати повторних входів, можете поставити галочку біля *запам'ятати*, щоб система зберегла дані входу:
-[Login](screenshots/Enter.jpg)
+
+![Login](screenshots/Enter.jpg)
 
 Після входу ви побачите свою сторінку користувача. На головній сторінці вказані користувачі та ваші друзі:
-[Account](screenshots/player.jpg)
+
+![Account](screenshots/player.jpg)
 
 При переході на вкладку *Турніри*, вам будуть висвітлені найближчі події по даній категорії:
-[Competition](screenshots/Competition.jpg)
+
+![Competition](screenshots/Competition.jpg)
 
 На вкладці *Команди*, ви можете слідкувати за улюбленими командами, бачити їх опис та події пов'язані з ними:
-[Comands](screenshots/Comands.jpg)
+
+![Comands](screenshots/Comands.jpg)
 
 Здійснити вихід з облікового запису ви можете за допомогою кнопки *Вихід*.
